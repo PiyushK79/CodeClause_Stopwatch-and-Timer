@@ -1,0 +1,4 @@
+This is a mini project of Stopwatch and Timer Application.
+The user can use the stopwatch, play, pause and reset it 
+The timer can also be set for custom user input and it can be played,paused and reset.
+After the timer ends, beep sound play to know that time is over.
